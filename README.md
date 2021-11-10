@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Nalinikanta Ojha</h1>
+<h1 align="center"> I'm Nalinikanta Ojha</h1>
 <h3 align="center">A passionate Android developer</h3>
 
 
