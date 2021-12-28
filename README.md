@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nalini.dorik.io/](https://nalini.dorik.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@nalinikanta7978](https://medium.com/@nalinikanta7978)
+- 📝 I  write articles on [https://medium.com/@nalinikanta7978](https://medium.com/@nalinikanta7978)
 
 - 💬 Ask me about **Java, Kotlin**
 
