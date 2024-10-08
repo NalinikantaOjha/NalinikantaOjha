@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NalinikantaOjha" alt="NalinikantaOjha" /></a> </p>
 
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m a **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://nalini.dorik.io/](https://nalini.dorik.io/)
 
